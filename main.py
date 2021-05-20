@@ -8,4 +8,3 @@ for i in range(0, eval(n)):
     c = i ** 2 + 1
     print(a, b, c)
     i += 1
-30
