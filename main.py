@@ -1,4 +1,4 @@
-i = 1
+# i = 0
 
 n = input("Introduce the desired number of triples: ")
 
